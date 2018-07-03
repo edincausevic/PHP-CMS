@@ -18,9 +18,6 @@ Welcome to admin
 </div>
 </div>
 <!-- /.row -->
-
-       
-                <!-- /.row -->
                 
 <div class="row">
 
